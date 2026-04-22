@@ -1,0 +1,30 @@
+body{
+    background-color:#B68443;
+    font-family: Arial, sans-serif;
+}
+h1{
+    text-align: center ;
+    color: darkred;
+}
+img{
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin: auto;
+   
+}
+ul{
+    list-style-type: square;
+}
+h1:hover{
+    color: darkblue
+}
+p{
+    font-size: 18px;
+}
+a{
+    display: block;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: darkblue;
+}
